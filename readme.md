@@ -65,6 +65,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 
 - [ClearCrowds](https://www.clearcrowds.com) `$` — Hosted AI photo cleanup for removing crowds, objects, glare, shadows, text and other distractions from photos. Upload required; free trial path with paid limits.
 - [GIMP](https://www.gimp.org) `OSS` — The long-standing free desktop alternative to Photoshop. Layers, masks, curves, scripting, the lot. Steep but complete.
+- [Klaruvo](https://www.powersoftware.app/en-US/product/detail/klaruvo) `$` — Desktop AI image editor for Windows and macOS that removes watermarks and unwanted objects (LaMa-based, built on IOPaint), plus one-click cutout, upscaling and batch processing up to 200 images. Everything runs on your machine — images are never uploaded. Freemium; the full version is a one-time purchase, no subscription.
 - [Krita](https://krita.org) `OSS` — Open-source painting and illustration studio. Built for digital art and brushwork, but a capable raster editor in general.
 - [Paint.NET](https://www.getpaint.net) — Free (closed source) Windows editor that sits between Paint and Photoshop. Layers and plugins without the GIMP learning curve.
 - [Photopea](https://www.photopea.com) 🔒 `$` — Full-featured image editor in a browser tab. Opens and saves PSD, supports layers and adjustment layers, and keeps your files local. Free with ads.
